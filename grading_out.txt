@@ -1,0 +1,5 @@
+Test 1 has passed! in 0.27 seconds.
+Test 2 has passed! in 1.01 seconds.
+Test 3 has passed! in 3.66 seconds.
+Test 4 has passed! in 3.12 seconds.
+Test 5 has passed! in 4.45 seconds.
